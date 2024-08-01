@@ -1,0 +1,6 @@
+pyairtable==1.1.0
+resend
+assemblyai
+flask
+python-dotenv
+openai
